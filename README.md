@@ -9,7 +9,7 @@
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=DevangSharma) ![Repos Badge](https://badges.pufler.dev/repos/DevangSharma)](https://badges.pufler.dev)
+![profile visit](https://komarev.com/ghpvc/?username=DevangSharma) ![Repos Badge](https://badges.pufler.dev/repos/DevangSharma)]
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=DevangSharma&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangSharma&layout=compact&theme=buefy" alt="languages" height="165">
@@ -79,8 +79,8 @@
 <!-- end problem solving -->
 <br />
 
-[website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
+[website]:   https://devangsharma.works
 [twitter]:   https://twitter.com/fadyehabamer
 [youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
-[instagram]: https://www.instagram.com/fadyehabamer00/
-[linkedin]:  https://www.linkedin.com/in/fady-amer/
+[instagram]: https://www.instagram.com/_devang_Sharma_/
+[linkedin]:  https://www.linkedin.com/in/-devang-sharma-/
