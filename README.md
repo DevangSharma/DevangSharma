@@ -1,6 +1,6 @@
-## Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Devang Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a CS student and Full-Stack web developer to be !
+## I'm a CS student, Competitive Programmer and Flutter Application Developer !
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers. 
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
@@ -9,7 +9,7 @@
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
+![profile visit](https://komarev.com/ghpvc/?username=DevangSharma) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/DevangSharma)](https://badges.pufler.dev)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
@@ -29,8 +29,8 @@
 ### 🏆 Github trophies
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
+![trophy](https://github-profile-trophy.vercel.app/?username=DevangSharma&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevangSharma)  
 <br />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
