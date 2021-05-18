@@ -26,6 +26,9 @@
 <br />
 <br />
 
+
+![GitHub metrics](https://metrics.lecoq.io/DevangSharma)  <br>
+
 ### 🏆 Github trophies
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevangSharma)  
 <br />
@@ -84,3 +87,9 @@
 [youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
 [instagram]: https://www.instagram.com/_devang_Sharma_/
 [linkedin]:  https://www.linkedin.com/in/-devang-sharma-/
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DevangSharma/count.svg" />
+</p>
+
