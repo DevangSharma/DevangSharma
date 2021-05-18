@@ -1,31 +1,87 @@
+## Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hi there, I'm Deepak Prajapati 👋
-<h3 align="center">A Geek trying to Figure-Out Stuff!!</h3>
+## I'm a CS student and Full-Stack web developer to be !
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other developers. 
+- 🥅 2021 Goals: Learn to build big projects using more tools and PL.
+- ⚡ Fun fact: I am a part-time Swimming coach. 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/500242/screenshots/3672858/bh-advisor-dribbble.gif">
+### 👦Stats:
+<div align="left">
 
-- 🔭 I’m currently working on a Flutter and Firebase.
-- 🌱 I’m currently learning everything 😂.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 💬 Ask me about Flutter app development or any tech related stuff.
-- ⚡ 2021 Goals : Contribute more to open source projects. 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Let's watch Marvel series again XD
+![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
 
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/this-deepraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deepraj_99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepraj99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="khushboo goel" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Deepraj99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="khushboo goel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dp0774138/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="khushboo goel" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+</div>
+
+###  👨‍💻Connect with me
+
+[<img align="left" alt="f  | Website" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img  align="left" alt="f | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left"  alt="f | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<br />
+
+### 🏆 Github trophies
 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
+<br />
 
-<h3 align="left">Languages & Tools:</h3>
-<h3 align="left">C, C++, Flutter, Dart, Firebase, Linux</h3>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
+<!-- start tools and languages -->
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="jquery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="react" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!-- start tools and languages -->
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevangSharma&show_icons=true&locale=en&layout=compact" alt="Deepraj99" /></p>
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Custom cursor ❌ using pure css3!](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s)</br>
+- [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) <br/>
+- [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ) <br/>
+- [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
+- [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
+<!-- YOUTUBE:END -->
+<br />
+
+### 🌎Problem Solving website progress
+<!-- start problem solving -->
+<table border = "1" bordercolor = "blue">
+   <tr>
+    <td>Edabit</td>
+    <td>https://edabit.com/user/DXa4QWAASdwrmo42q</td>
+    <td>Lvl 7</td>
+    <td>1,170 XP</td>
+    <td>JS</td>
+  </tr>  
+   
+   <tr>
+    <td>Leetcode</td>
+    <td>https://leetcode.com/fadyehabamer/</td>
+    <td>Lvl 1</td>
+    <td>3 problems</td>
+    <td>JS</td>
+  </tr>  
+</table>
+<!-- end problem solving -->
+<br />
+
+[website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
+[twitter]:   https://twitter.com/fadyehabamer
+[youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
+[instagram]: https://www.instagram.com/fadyehabamer00/
+[linkedin]:  https://www.linkedin.com/in/fady-amer/
