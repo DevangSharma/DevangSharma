@@ -27,9 +27,6 @@
 <br />
 
 ### 🏆 Github trophies
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DevangSharma&theme=dark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevangSharma)  
 <br />
 
