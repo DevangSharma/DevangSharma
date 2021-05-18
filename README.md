@@ -28,4 +28,4 @@
 <h3 align="left">Languages & Tools:</h3>
 <h3 align="left">C, C++, Flutter, Dart, Firebase, Linux</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepraj99&show_icons=true&locale=en&layout=compact" alt="Deepraj99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevangSharma&show_icons=true&locale=en&layout=compact" alt="Deepraj99" /></p>
