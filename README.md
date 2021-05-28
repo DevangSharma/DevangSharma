@@ -49,7 +49,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 <!-- start tools and languages -->
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![p](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -78,7 +78,7 @@
     <td>https://www.codechef.com/users/devang_sharma</td>
     <td>4 Star</td>
     <td>Max Rating: 1864</td>
-    <td>180+ problems/td>
+    <td>180+ problems</td>
   </tr>  
 </table>
 <!-- end problem solving -->
