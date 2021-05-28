@@ -18,8 +18,6 @@
 
 - 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1baBGEccMJJJPHhcDWMbJcckE0SNSnovJ/view?usp=sharing)**
 
-- ⚡ Fun fact **I can sing...**
-
 ### 👦Stats:
 <div align="left">
 
