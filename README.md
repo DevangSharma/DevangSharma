@@ -1,15 +1,29 @@
 ## Hi there, I'm Devang Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a CS student, Competitive Programmer and Flutter Application Developer !
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects using more tools and PL.
-- ⚡ Fun fact: I am a part-time Swimming coach. 
+
+- 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
+
+- 🌱 I’m currently learning about **Competitive Programming** and **Flutter**
+
+- 👯 I’m looking to collaborate on **Any Projects as per my skillset**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DevangSharma/](https://github.com/DevangSharma/)
+
+- 📝 I Have my portfolio at [https://devangsharma.works/](https:/devangsharma.works/)
+
+- 💬 Ask me about **Flutter, C++, DSA, Competitive Programming, Firebase**
+
+- 📫 How to reach me **this.devang@gmail.com**
+
+- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1baBGEccMJJJPHhcDWMbJcckE0SNSnovJ/view?usp=sharing)**
+
+- ⚡ Fun fact **I can sing...**
 
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=DevangSharma) ![Repos Badge](https://badges.pufler.dev/repos/DevangSharma)]
+![profile visit](https://komarev.com/ghpvc/?username=DevangSharma) ![Repos Badge](https://badges.pufler.dev/repos/DevangSharma)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=DevangSharma&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangSharma&layout=compact&theme=buefy" alt="languages" height="165">
@@ -52,7 +66,7 @@
 <!-- start problem solving -->
 <table border = "1" bordercolor = "blue">
    <tr>
-    <td>Edabit</td>
+    <td>Codeforces</td>
     <td>https://edabit.com/user/DXa4QWAASdwrmo42q</td>
     <td>Lvl 7</td>
     <td>1,170 XP</td>
@@ -60,7 +74,7 @@
   </tr>  
    
    <tr>
-    <td>Leetcode</td>
+    <td>Codechef</td>
     <td>https://leetcode.com/fadyehabamer/</td>
     <td>Lvl 1</td>
     <td>3 problems</td>
@@ -72,7 +86,7 @@
 
 [website]:   https://devangsharma.works
 [twitter]:   https://twitter.com/fadyehabamer
-[youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
+[youtube]:   https://www.youtube.com/channel/UCkgJTqdqh8BuHPdBTFJdNaQ
 [instagram]: https://www.instagram.com/_devang_Sharma_/
 [linkedin]:  https://www.linkedin.com/in/-devang-sharma-/
 
