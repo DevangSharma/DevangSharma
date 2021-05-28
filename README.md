@@ -2,8 +2,6 @@
 
 ## I'm a CS student, Competitive Programmer and Flutter Application Developer !
 
-- 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
-
 - 🌱 I’m currently learning about **Competitive Programming** and **Flutter**
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
