@@ -105,7 +105,7 @@
 <!-- end problem solving -->
 <br />
 
-[website]:   https://devangsharma.works
+[website]:   https://devangsharma.me
 [twitter]:   https://twitter.com/fadyehabamer
 [youtube]:   https://www.youtube.com/channel/UCkgJTqdqh8BuHPdBTFJdNaQ
 [instagram]: https://www.instagram.com/_devang_Sharma_/
