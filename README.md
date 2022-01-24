@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevangSharma/](https://github.com/DevangSharma/)
 
-- 📝 I Have my portfolio at [https://devangsharma.works/](https:/devangsharma.works/)
+- 📝 I Have my portfolio at [https://devangsharma.works/](https:/devangsharma.me/)
 
 - 💬 Ask me about **Flutter, C++, DSA, Competitive Programming, Firebase**
 
 - 📫 How to reach me **this.devang@gmail.com**
 
-- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1baBGEccMJJJPHhcDWMbJcckE0SNSnovJ/view?usp=sharing)**
+- 📄 Know about my experiences in my **[Resume](bit.ly/DevangSharmaResume)**
 
 ### 👦Stats:
 <div align="left">
